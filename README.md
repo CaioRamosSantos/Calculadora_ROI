@@ -20,7 +20,7 @@ $$ROI = \frac{\text{Receita} - \text{Custo}}{\text{Custo}}$$
 ## 🛠️ Como Executar:
 Certifique-se de ter o Python 3.x instalado.
 
-Clone este repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Clone este repositório: git clone https://github.com/CaioRamosSantos/Calculadora_ROI.git
 
 Navegue até a pasta e execute o script: python calc.py
 
