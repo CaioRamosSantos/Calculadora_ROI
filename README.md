@@ -8,7 +8,7 @@ Métrica de Desempenho: Utiliza a fórmula matemática do ROI para avaliar a efi
 
 Visualização em Tabela: Formata os resultados em uma tabela limpa e legível no console.
 
-🧮 A Lógica Matemática
+## 🧮 A Lógica Matemática:
 O script utiliza a fórmula padrão de ROI para determinar o ganho obtido em relação ao valor investido:
 
 $$ROI = \frac{\text{Receita} - \text{Custo}}{\text{Custo}}$$
